@@ -9,8 +9,7 @@ MySQL Files &amp; Documentations
        - DROP
        - RENAME
        - TRUNCATE
-       
-       
+            
 ### Data Manipulation Language (DML)
        - SELECT ... FROM
        - INSERT INTO ... VALUES
@@ -19,3 +18,9 @@ MySQL Files &amp; Documentations
        
        
 ### Data Control Language (DCL)
+       - GRANT
+       - REVOKE
+       
+### Transaction Control Language (TCL)
+       - COMMIT
+       - ROLLBACK
