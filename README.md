@@ -3,8 +3,8 @@ MySQL Files &amp; Documentations
 
 
 ### Data Definition Language (DDL)          
-    -- CREATE
-    -- ALTER
-    -- DROP
-    -- RENAME
-    -- TRUNCATE
+       CREATE
+       ALTER
+       DROP
+       RENAME
+       TRUNCATE
