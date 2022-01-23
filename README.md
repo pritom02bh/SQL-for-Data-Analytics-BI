@@ -11,7 +11,7 @@ MySQL Files &amp; Documentations
        - TRUNCATE
        
        
-### Data Manipulation Language
+### Data Manipulation Language (DML)
        - SELECT ... FROM
        - INSERT INTO ... VALUES
        - UPDATE ... SET ... WHERE
