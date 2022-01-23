@@ -8,3 +8,6 @@ MySQL Files &amp; Documentations
        - DROP
        - RENAME
        - TRUNCATE
+       
+       
+### Data 
