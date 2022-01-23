@@ -1,5 +1,5 @@
 ## SQL-for-Data-Analysis
-MySQL Files &amp; Documentations
+MySQL Files &amp; Documentations                                                                   
 ***PRITOM BHOWMIK***
 
 
