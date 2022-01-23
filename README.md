@@ -1,5 +1,6 @@
 ## SQL-for-Data-Analysis
 MySQL Files &amp; Documentations
+***PRITOM BHOWMIK***
 
 
 ### Data Definition Language (DDL)          
@@ -10,4 +11,6 @@ MySQL Files &amp; Documentations
        - TRUNCATE
        
        
-### Data 
+### Data Manipulation Language
+       - SELECT
+       - 
