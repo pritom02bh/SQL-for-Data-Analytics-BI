@@ -1,6 +1,6 @@
 ## SQL-for-Data-Analysis
 MySQL Files &amp; Documentations                                                                   
-***PRITOM BHOWMIK***
+***By Pritom Bhowmik***
 
 
 ### Data Definition Language (DDL)          
