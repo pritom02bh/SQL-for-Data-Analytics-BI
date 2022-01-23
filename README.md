@@ -12,5 +12,10 @@ MySQL Files &amp; Documentations
        
        
 ### Data Manipulation Language
-       - SELECT
-       - 
+       - SELECT ... FROM
+       - INSERT INTO ... VALUES
+       - UPDATE ... SET ... WHERE
+       - DELETE ... FROM ... WHERE
+       
+       
+### Data Control Language (DCL)
