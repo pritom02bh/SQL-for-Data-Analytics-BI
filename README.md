@@ -1,4 +1,4 @@
-## SQL-for-Data-Analysis
+## SQL-for-Data-Analytics & Business Intelligence
 
 MySQL Files &amp; Documentations                                                                   
 ***By Pritom Bhowmik***
