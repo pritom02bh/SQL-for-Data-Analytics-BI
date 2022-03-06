@@ -35,5 +35,5 @@ NEW Authentication Plugin - Creating New User
                mysql --> CREATE USER 'nativeuser'@'localhost'
                      --> IDENTIFIED WITH mysql_native_password BY '1234newpass';
                      Query OK......
-               mysql --> GRANT ALL PRIVILGES ON *.* TO 'nativeuser'@'localhost';
+               mysql --> GRANT ALL PRIVILEGES ON *.* TO 'nativeuser'@'localhost';
               
