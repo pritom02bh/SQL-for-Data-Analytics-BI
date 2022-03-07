@@ -7,3 +7,8 @@
            ------------------------------|------------|---------------|------------------------|----------------------------------------------------    
             variable character(VARCHAR)  |  variable  |   VARCHAR(5)  |       65,535           | a lot more responsive to the data value inserted
                                          |            |               |                        |
+            
+            Example:
+            
+            Company code (Must be 3 characters)         -->  company CHAR(3)
+            Password (Can't be more than 10 characters) -->  password VARCHAR(10)
