@@ -1,3 +1,3 @@
-###Basic Operations on MYSQL --->
+### Basic Operations on MYSQL --->
 
 Creating a Database:
