@@ -6,3 +6,14 @@ Creating a Database:
                                       OR
                        CREATE SCHEMA IF NOT EXISTS Sales;
                      
+Creating a table:
+  
+                        USE Sales;
+
+                        CREATE TABLE sales
+                        (
+                          purchase_number INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
+                            date_of_purchase DATE NOT NULL,
+                            customer_id INT,
+                            item_code VARCHAR(10) NOT NULL
+                            );
