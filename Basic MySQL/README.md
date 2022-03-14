@@ -2,5 +2,7 @@
 
 Creating a Database:                      
                        
-                       CREATE DATABASE IF NOT EXIST sales;
+                       CREATE DATABASE IF NOT EXIST Sales;
+                                      OR
+                       CREATE SCHEMA IF NOT EXISTS Sales;
                      
