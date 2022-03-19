@@ -65,4 +65,17 @@ ADDING & DROPING FOREIGN KEY USING ALTER:
 			ALTER TABLE sales
 			DROP FOREIGN KEY sales_ibfk_1;
 
+
+UNIQUE KEY & INDEX:
+unique keys in MYSQL have the same role as indexes.
+INDEX helps to retrieve data more easily.
+	
+ADDING A UNIQUE KEY:
 			
+			ALTER TABLE customers
+			ADD UNIQUE KEY (email_address);
+
+DROP UNIQUE KEY:
+			
+			ALTER TABLE customers
+			DROP INDEX email_address;
