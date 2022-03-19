@@ -68,7 +68,7 @@ ADDING & DROPING FOREIGN KEY USING ALTER:
 
 UNIQUE KEY & INDEX:
 
-unique keys in MYSQL have the same role as indexes.
+Unique keys in MYSQL have the same role as indexes.
 INDEX helps to retrieve data more easily.
 	
 ADDING A UNIQUE KEY:
