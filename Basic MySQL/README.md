@@ -77,6 +77,15 @@ ADDING A UNIQUE KEY:
 			ADD UNIQUE KEY (email_address);
 
 DROP UNIQUE KEY:
-			
+
 			ALTER TABLE customers
 			DROP INDEX email_address;
+
+
+
+DEFAULT Constraint:
+
+
+			ALTER TABLE customers
+			CHANGE COLUMN number_of_complaints number_of_complaints INT DEFAULT 0;
+
