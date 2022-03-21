@@ -89,3 +89,10 @@ DEFAULT Constraint:
 			ALTER TABLE customers
 			CHANGE COLUMN number_of_complaints number_of_complaints INT DEFAULT 0;
 
+MODIFY & CHANGE Column:
+			
+			ALTER TABLE companies
+			MODIFY company_name VARCHAR(255) NULL;
+			
+			ALTER TABLE companies
+			CHANGE company_name company_name VARCHAR(255) NOT NULL;
