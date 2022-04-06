@@ -105,7 +105,15 @@ Operator Precedence:
 IN-NOT IN :
 
 			WHERE
-    				first_name IN ('Cathie', 'Mark', 'Nathan');
+    			first_name IN ('Cathie', 'Mark', 'Nathan');
 				
 			WHERE
-				first_name NOT IN ('Cathie', 'Mark', 'Nathan');
+			first_name NOT IN ('Cathie', 'Mark', 'Nathan');
+
+Matching Patterns (LIKE, NOT LIKE):
+			
+			% - a substitute of a sequence of characters
+			('rep%'), ('%mik'), ('%rey%')
+			
+			_ - helps to match a single character
+			('Mar_')
