@@ -117,3 +117,8 @@ Matching Patterns (LIKE, NOT LIKE):
 			
 			_ - helps to match a single character
 			('Mar_')
+
+Wildcard Characters:
+			
+			%,  _ , *
+			
