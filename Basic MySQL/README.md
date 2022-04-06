@@ -30,7 +30,8 @@ Creating a table:
                         PRIMARY KEY (purchase_number)
                         );
 
-FOREIGN KEY Constraint:   Also applied to strings and numbers.        
+FOREIGN KEY Constraint:   
+      
 
                        USE sales;
 			DROP TABLE sales;
@@ -123,6 +124,6 @@ Wildcard Characters:
 			%,  _ , *
 			
 
-BETWEEN ... AND,  NOT BETWEEN ... AND :
+BETWEEN ... AND,  NOT BETWEEN ... AND : applied to strings and numbers as well.  
 
 			hire_date BETWEEN '1990-01-01' AND '2000-01-01');
