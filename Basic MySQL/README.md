@@ -122,3 +122,7 @@ Wildcard Characters:
 			
 			%,  _ , *
 			
+
+BETWEEN .. ad NOT BETWEEN .. AND :
+
+			hire_date BETWEEN '1990-01-01' AND '2000-01-01');
