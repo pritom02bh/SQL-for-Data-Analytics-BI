@@ -30,7 +30,7 @@ Creating a table:
                         PRIMARY KEY (purchase_number)
                         );
 
-FOREIGN KEY Constraint:           
+FOREIGN KEY Constraint:   Also applied to strings and numbers.        
 
                        USE sales;
 			DROP TABLE sales;
