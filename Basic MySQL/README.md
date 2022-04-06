@@ -96,3 +96,16 @@ MODIFY & CHANGE Column:
 			
 			ALTER TABLE companies
 			CHANGE company_name company_name VARCHAR(255) NOT NULL;
+			
+			
+Operator Precedence:
+			
+			The AND operator is applied first and the OR operator is applied second.
+			
+IN-NOT IN :
+
+			WHERE
+    				first_name IN ('Cathie', 'Mark', 'Nathan');
+				
+			WHERE
+				first_name NOT IN ('Cathie', 'Mark', 'Nathan');
